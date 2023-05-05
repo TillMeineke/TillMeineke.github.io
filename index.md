@@ -24,6 +24,7 @@ Churn analysis of subscribers of the German newspaper “Die Zeit” related to 
     <img
       src="/images/schneeeule.png"
     />
+</a>
 
 <!--[Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
