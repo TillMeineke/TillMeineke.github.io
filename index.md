@@ -1,14 +1,13 @@
-## Portfolio
+## Selected projects in data analytics
 
 ---
 
-### Category Name 1
+### Is newsletter marketing effective in preventing churn? (Capstone project)
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Is newsletter marketing effective in preventing churn?](/pdf/Presentation_is_newsletter_marketing_effective_in_preventing_churn.pdf)
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+<!--[Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -27,6 +26,6 @@
 
 ---
 
----
+--- -->
 <!-- <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
  Remove above link if you don't want to attibute -->
