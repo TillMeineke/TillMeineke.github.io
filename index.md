@@ -5,7 +5,7 @@
 ### Is newsletter marketing effective in preventing churn?
 
 Capstone project at neue fische data analytics bootcamp 2021<br>
-<img align="right" width="150" height="100" src="/images/DIeZeit_LogoNewspaperTablet_resized.jpg?raw=true"/>
+<img align="right" width="150" height="150" src="/images/DIeZeit_LogoNewspaperTablet_resized.jpg?raw=true"/>
 
 Churn analysis of subscribers of the German newspaper “Die Zeit” related to their eMail newsletter activities.<br>
 [Show presentation](/pdf/Presentation_is_newsletter_marketing_effective_in_preventing_churn.pdf)
