@@ -3,7 +3,8 @@
 ---
 
 ### Is newsletter marketing effective in preventing churn?
-<img align="right" width="150" height="150" src="/images/DIeZeit_LogoNewspaperTablet_resized.jpg?raw=true"/>
+
+<img align="right" width="150" height="150" src="/images/DieZeit_LogoNewspaperTablet_resized.jpg?raw=true"/>
 
 Capstone project at [neue fische data analytics bootcamp](<https://www.neuefische.de/bootcamp/data-analytics>) 2021<br>
 
@@ -11,6 +12,19 @@ Churn analysis of subscribers of the German newspaper “Die Zeit” related to 
 [Show presentation](/pdf/Presentation_is_newsletter_marketing_effective_in_preventing_churn.pdf)
 
 ---
+
+## Privat projects
+
+### AR-models from Schleich(r)-toys
+
+<a
+    rel="ar"
+    href="/fun/Schneeeule.reality"
+  >
+    <img
+      src="/images/schneeeule.png"
+    />
+
 <!--[Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
