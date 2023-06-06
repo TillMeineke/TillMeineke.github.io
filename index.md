@@ -26,16 +26,17 @@ Churn analysis of subscribers of the German newspaper “Die Zeit” related to 
 
 <div>
     <a rel="ar" href="/fun/Schneeeule.reality">
-    <img align="left" width="150" height="150" src="/images/schneeeule.png"/>
-    </a>
-</div>
-A little fun project for a presentation my daughter gave in school. View on iPhone/iPad or download with macOS.
-<div>
-    <a rel="ar" href="/fun/Waschbaer.reality">
-    <img align="right" width="150" height="150"src="/images/waschbaer.png"/>
+    <img align="right" width="150" height="150" src="/images/schneeeule.png"/>
     </a>
 </div>
 
+<div>
+    <a rel="ar" href="/fun/Waschbaer.reality">
+    <img align="right" width="150" height="150" src="/images/waschbaer.png"/>
+    </a>
+</div>
+
+A little fun project for a presentation my daughter gave in school. View on iPhone/iPad or download with macOS.
 
 <!--[Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
