@@ -2,6 +2,14 @@
 
 ---
 
+### [My CV as a barchart](https://public.tableau.com/app/profile/till.meineke/viz/Lebenslauf_16860203495790/Lebenslauf?publish=yes)
+
+<img align="right" width="150" height="110" src="/images/lebenslauf_tableau.png?raw=true"/>
+
+A visualisation of my CV I created with tableau in 2023.
+
+---
+
 ### Is newsletter marketing effective in preventing churn?
 
 <img align="right" width="150" height="150" src="/images/DIeZeit_LogoNewspaperTablet_resized.jpg?raw=true"/>
@@ -22,6 +30,12 @@ Churn analysis of subscribers of the German newspaper “Die Zeit” related to 
     <img src="/images/schneeeule.png"/>
     </a>
 </div>
+<div>
+    <a rel="ar" href="/fun/Waschbaer.reality">
+    <img src="/images/waschbaer.png"/>
+    </a>
+</div>
+A little fun project for a presentation my daughter gave in school. View on iPhone/iPad or download with macOS.
 
 <!--[Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
