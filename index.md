@@ -22,13 +22,13 @@ Churn analysis of subscribers of the German newspaper “Die Zeit” related to 
 
 ## Privat projects
 
-### AR-models from Schleich<sup>®️</sup>-toys
-
 <div>
     <a rel="ar" href="/fun/Schneeeule.reality">
     <img align="right" width="150" height="150" src="/images/schneeeule.png"/>
     </a>
 </div>
+
+### AR-models from Schleich<sup>®️</sup>-toys
 
 <div>
     <a rel="ar" href="/fun/Waschbaer.reality">
