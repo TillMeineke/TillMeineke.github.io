@@ -1,10 +1,9 @@
 ## Selected projects in data analytics
 
 ---
+<img align="right" width="150" height="110" src="/images/lebenslauf_tableau.png?raw=true"/>
 
 ### [My CV as a barchart](https://public.tableau.com/app/profile/till.meineke/viz/Lebenslauf_16860203495790/Lebenslauf?publish=yes)
-
-<img align="right" width="150" height="110" src="/images/lebenslauf_tableau.png?raw=true"/>
 
 A visualisation of my CV I created with tableau in 2023.
 
