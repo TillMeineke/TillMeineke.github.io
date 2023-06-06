@@ -29,6 +29,7 @@ Churn analysis of subscribers of the German newspaper “Die Zeit” related to 
     <img align="center" width="150" height="150" src="/images/schneeeule.png"/>
     </a>
 </div>
+
 <div>
     <a rel="ar" href="/fun/Waschbaer.reality">
     <img align="center" width="150" height="150"src="/images/waschbaer.png"/>
