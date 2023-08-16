@@ -1,29 +1,28 @@
-## Selected projects in data analytics
+## Projects: Data Analytics and Data Science
 
 ---
 <img align="right" width="150" height="110" src="./images/logo_real_estate.png?raw=true"/>
 
 ### EDA on Kings County House sales
 
-A [EDA on Kings County House sales](https://github.com/TillMeineke/ds-eda-project2023 "EDA on Kings County House sales") I performed during my [DS Bootcamp at neuefische GmbH](https://www.neuefische.de/bootcamp/data-science "DS Bootcamp at neuefische GmbH") with python and pandas in 2023.
+[EDA on Kings County House sales](https://github.com/TillMeineke/ds-eda-project2023 "EDA on Kings County House sales") created during my [DS Bootcamp at neuefische GmbH](https://www.neuefische.de/bootcamp/data-science "DS Bootcamp at neuefische GmbH") with python and pandas in 2023.
 
 ---
 <img align="right" width="150" height="110" src="./images/lebenslauf_tableau.png?raw=true"/>
 
 ### My CV as a barchart
 
-A [visualisation of my CV](https://public.tableau.com/app/profile/till.meineke/viz/Lebenslauf_16860203495790/Lebenslauf?publish=yes) I created with tableau in 2023.
+[Visualisation of my CV](https://public.tableau.com/app/profile/till.meineke/viz/Lebenslauf_16860203495790/Lebenslauf?publish=yes) created with tableau in 2023.
 
 ---
 
 ### Is newsletter marketing effective in preventing churn?
 
-<img align="right" width="150" height="150" src="./images/DIeZeit_LogoNewspaperTablet_resized.jpg?raw=true"/>
+<img align="right" width="150" height="110" src="./images/DIeZeit_LogoNewspaperTablet_resized.jpg?raw=true"/>
 
-Capstone project of [DA Bootcamp at neue fische GmbH](<https://www.neuefische.de/bootcamp/data-analytics> "DA Bootcamp at neue fische GmbH") 2021<br>
-
-Churn analysis of subscribers of the German newspaper “Die Zeit” related to their eMail newsletter activities.<br>
-[Show presentation](./pdf/Presentation_is_newsletter_marketing_effective_in_preventing_churn.pdf)
+Capstone project of [DA Bootcamp at neue fische GmbH](<https://www.neuefische.de/bootcamp/data-analytics> "DA Bootcamp at neue fische GmbH") 2021.\
+Churn analysis of subscribers of the German newspaper “Die Zeit” related to their eMail newsletter activities.
+[Show presentation.](./pdf/Presentation_is_newsletter_marketing_effective_in_preventing_churn.pdf)
 
 __---__
 
@@ -31,7 +30,8 @@ __---__
 
 ### AR-models from Schleich<sup>®️</sup>-toys
 
-A little fun project for a presentation my daughter gave in school. View on iPhone/iPad or download with macOS.
+Fun project with photogrammetry and Reality Composer.\
+View on iPhone/iPad or download with macOS.
 
 <div>
     <a rel="ar" href="./fun/Schneeeule.reality">
@@ -44,8 +44,6 @@ A little fun project for a presentation my daughter gave in school. View on iPho
     <img align="right" width="150" height="150" src="./images/waschbaer.png"/>
     </a>
 </div>
-
-
 
 <!--[Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
