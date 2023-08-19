@@ -1,4 +1,4 @@
-## Till Meineke's data analytics and ML portfolio projects
+# Till Meineke's data analytics and ML portfolio projects
 
 Based on a Minimal Jekyll theme for GitHub Pages [1].
 
