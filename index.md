@@ -1,5 +1,7 @@
 ## Projects: Data Analytics and Data Science
 
+<span style="color:red">Update in progress. I just finished my [DS Bootcamp at neuefische GmbH](https://www.neuefische.de/bootcamp/data-science "DS Bootcamp at neuefische GmbH").</span>
+
 ---
 <img align="right" width="150" height="110" src="./images/logo_real_estate.png?raw=true"/>
 
