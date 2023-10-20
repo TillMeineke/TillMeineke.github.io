@@ -1,8 +1,9 @@
 ## Projects: Data Analytics and Data Science
 
-<span style="color:red">Update in progress. I just finished my [DS Bootcamp at neuefische GmbH](https://www.neuefische.de/bootcamp/data-science "DS Bootcamp at neuefische GmbH").</span>
+<span style="color:red">Update in progress. I just finished my [DS Bootcamp at neuefische GmbH](https://www.neuefische.de/bootcamp/data-science "DS Bootcamp at neuefische GmbH") on 2023-10-16.</span>
 
 ---
+
 <img align="right" width="150" height="110" src="./images/logo_real_estate.png?raw=true"/>
 
 ### EDA on Kings County House sales
@@ -10,6 +11,7 @@
 [EDA on Kings County House sales](https://github.com/TillMeineke/ds-eda-project2023 "EDA on Kings County House sales") created during my [DS Bootcamp at neuefische GmbH](https://www.neuefische.de/bootcamp/data-science "DS Bootcamp at neuefische GmbH") with python and pandas in 2023.
 
 ---
+
 <img align="right" width="150" height="110" src="./images/lebenslauf_tableau.png?raw=true"/>
 
 ### My CV as a barchart
@@ -22,11 +24,11 @@
 
 <img align="right" width="150" height="110" src="./images/DIeZeit_LogoNewspaperTablet_resized.jpg?raw=true"/>
 
-Capstone project of [DA Bootcamp at neue fische GmbH](<https://www.neuefische.de/bootcamp/data-analytics> "DA Bootcamp at neue fische GmbH") 2021.\
+Capstone project of [DA Bootcamp at neue fische GmbH](https://www.neuefische.de/bootcamp/data-analytics "DA Bootcamp at neue fische GmbH") 2021.\
 Churn analysis of subscribers of the German newspaper “Die Zeit” related to their eMail newsletter activities.
 [Show presentation.](./pdf/Presentation_is_newsletter_marketing_effective_in_preventing_churn.pdf)
 
-__---__
+**---**
 
 ## Private projects
 
