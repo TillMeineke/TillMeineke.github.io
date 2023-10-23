@@ -16,9 +16,14 @@
 
 ### My CV as a barchart
 
+\
+
 [Visualisation of my CV](https://public.tableau.com/app/profile/till.meineke/viz/Lebenslauf_16860203495790/Lebenslauf?publish=yes) created with tableau in 2023.
-<br>
-<br>
+
+\
+\
+\
+
 ---
 
 ### Is newsletter marketing effective in preventing churn?
