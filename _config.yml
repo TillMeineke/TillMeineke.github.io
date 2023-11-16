@@ -13,20 +13,6 @@ description: > # my text below (remove <br> elements if I don't need line breaks
    🧬 Life-Science<br>
    <br>
 
-  SKILLS
-- diploma in biochemistry / molecularbiology
-- work experience in data projects in the scientific field
-- Extensive knowledge and experience with Git(Hub), Python, SQL and NoSQL
-- 20 years of experience with UNIX-based operating systems (gentoo linux, macOS)
-- Applied knowledge of JS, CSS, HTML and Dash for web-based user interfaces
-- Strong documentation skills
-
-  <a href="./pdf/2023_11_16_CV_Till_Meineke.pdf">CV</a>
-  <br>
-
-  <a href="./pdf/2023_11_16_Lebenslauf_Till_Meineke.pdf">Lebenslauf</a>
-  <br>
-
   <a href="https://www.linkedin.com/in/tillmeineke">View My LinkedIn Profile</a>
 
 remote_theme: pages-themes/minimal@v0.2.0

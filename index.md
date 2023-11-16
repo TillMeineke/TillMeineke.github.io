@@ -1,3 +1,17 @@
+## SKILLS
+- diploma in biochemistry / molecularbiology
+- work experience in data projects in the scientific field
+- Extensive knowledge and experience with Git(Hub), Python, SQL and NoSQL
+- 20 years of experience with UNIX-based operating systems (gentoo linux, macOS)
+- Applied knowledge of JS, CSS, HTML and Dash for web-based user interfaces
+- Strong documentation skills
+
+  <a href="./pdf/2023_11_16_CV_Till_Meineke.pdf">CV</a>
+  <br>
+
+  <a href="./pdf/2023_11_16_Lebenslauf_Till_Meineke.pdf">Lebenslauf</a>
+  <br>
+
 ## Projects: Data Analytics and Data Science
 <!-- 
 <span style="color:red">Update in progress. I just finished my [DS Bootcamp at neuefische GmbH](https://www.neuefische.de/bootcamp/data-science "DS Bootcamp at neuefische GmbH") on 2023-10-16.</span> -->
