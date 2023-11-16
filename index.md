@@ -2,13 +2,13 @@
 <!-- 
 <span style="color:red">Update in progress. I just finished my [DS Bootcamp at neuefische GmbH](https://www.neuefische.de/bootcamp/data-science "DS Bootcamp at neuefische GmbH") on 2023-10-16.</span> -->
 
-<img align="right" width="150" height="110" src="./images/logo_capstone.png?raw=true"/>
+<img align="right" width="150" height="90" src="./images/logo_capstone.png?raw=true"/>
 
 ### Capstone project: Accident prophet - Traffic Accident Prediction in Hamburg
 
 4 week [capstone project on traffic accident prediction in Hamburg](./pdf/AccidentsHH_presentation.pdf) created during my [DS Bootcamp at neuefische GmbH](https://www.neuefische.de/bootcamp/data-science "DS Bootcamp at neuefische GmbH") with python and pandas in 2023.
 
-<img align="right" width="150" height="110" src="./images/Common_air_pollutants.jpg?raw=true"/>
+<img align="right" width="150" height="75" src="./images/Common_air_pollutants.jpg?raw=true"/>
 
 ### ML project on Air Pollution in Africa ([Zingi Challenge](https://zindi.africa/competitions/zindiweekendz-learning-urban-air-pollution-challenge))
 
@@ -34,7 +34,7 @@
 
 ### Is newsletter marketing effective in preventing churn?
 
-<img align="right" width="150" height="110" src="./images/DIeZeit_LogoNewspaperTablet_resized.jpg?raw=true"/>
+<img align="right" width="150" height="150" src="./images/DIeZeit_LogoNewspaperTablet_resized.jpg?raw=true"/>
 
 Capstone project of [DA Bootcamp at neue fische GmbH](https://www.neuefische.de/bootcamp/data-analytics "DA Bootcamp at neue fische GmbH") 2021.\
 Churn analysis of subscribers of the German newspaper “Die Zeit” related to their eMail newsletter activities.
