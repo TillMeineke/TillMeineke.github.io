@@ -14,6 +14,7 @@ description: > # my text below (remove <br> elements if I don't need line breaks
    <br>
 
   <a href="https://www.linkedin.com/in/tillmeineke">View My LinkedIn Profile</a>
+  <a href="https://www.linkedin.com/in/tillmeineke">View My LinkedIn Profile</a>
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:

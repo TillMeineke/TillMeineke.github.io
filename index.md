@@ -1,7 +1,7 @@
 ## SKILLS
 - diploma in biochemistry / molecularbiology
 - work experience in data projects in the scientific field
-- Extensive knowledge and experience with Git(Hub), Python, SQL and NoSQL
+- Extensive knowledge and experience with Git(Hub), Python, SQL
 - 20 years of experience with UNIX-based operating systems (gentoo linux, macOS)
 - Applied knowledge of CSS, HTML and Dash for web-based user interfaces
 - Strong documentation skills
@@ -39,7 +39,7 @@
 3 day EDA on [Kings County House sales (github repository)](https://github.com/TillMeineke/ds-eda-project2023 "EDA on Kings County House sales") created during my [DS Bootcamp at neuefische GmbH](https://www.neuefische.de/bootcamp/data-science "DS Bootcamp at neuefische GmbH") with python and pandas in 2023.
 
 ---
-
+<!-- 
 <img align="right" width="150" height="110" src="./images/lebenslauf_tableau.png?raw=true"/>
 
 ### My CV as a barchart
@@ -47,6 +47,7 @@
 [Visualisation of my CV](https://public.tableau.com/app/profile/till.meineke/viz/Lebenslauf_16860203495790/Lebenslauf?publish=yes) created with tableau in 2023.<br>
 
 ---
+-->
 
 ### Capstone project: Is newsletter marketing effective in preventing churn?
 
@@ -54,6 +55,7 @@
 
 4 week capstone project on [churn analysis (pdf presentation)](./pdf/Presentation_is_newsletter_marketing_effective_in_preventing_churn.pdf) of subscribers of the German newspaper “Die Zeit” related to their eMail newsletter activities, created during my [DA Bootcamp at neue fische GmbH](https://www.neuefische.de/bootcamp/data-analytics "DA Bootcamp at neue fische GmbH") in 2021.
 
+<!--
 **---**
 
 ## Private projects
@@ -75,7 +77,7 @@ View on iPhone/iPad or download with macOS.
     </a>
 </div>
 
-<!--[Project 2 Title](/pdf/sample_presentation.pdf)
+[Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
