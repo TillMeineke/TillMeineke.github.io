@@ -42,7 +42,6 @@
       #ff4895,
       #6e4fe9);
 
-
   /* solid */
 
   --jet: #302c3f;
@@ -559,7 +558,7 @@ main {
 
 
 /**
- * #service
+ * #service 
  */
 
 .service {
@@ -620,7 +619,7 @@ main {
 
 
 /**
- * #testimonials
+ * #testimonials 
  */
 
 .testimonials {
@@ -959,7 +958,7 @@ main {
 }
 
 .skill-progress-fill {
-  color: var(--text-gradient-yellow);
+  background: var(--text-gradient-yellow);
   height: 100%;
   border-radius: inherit;
 }
