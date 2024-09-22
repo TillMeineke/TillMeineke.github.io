@@ -276,7 +276,7 @@ article.active {
   left: 0;
   width: 30px;
   height: 3px;
-  background: var(--text-grey);
+  background: var(--text-gradient-grey);
   border-radius: 3px;
 }
 
@@ -619,7 +619,7 @@ main {
 
 
 /**
- * #testimonials 
+ * #testimonials
  */
 
 .testimonials {
@@ -958,7 +958,7 @@ main {
 }
 
 .skill-progress-fill {
-  background: var(--text-gradient-yellow);
+  background: var(--text-gradient-grey);
   height: 100%;
   border-radius: inherit;
 }
