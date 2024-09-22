@@ -38,9 +38,9 @@
   --border-gradient-onyx: linear-gradient(to bottom right,
       #302c3f,
       #1d1a27);
-  --text-gradient-yellow: linear-gradient(to right,
-      #ff4895,
-      #6e4fe9);
+  --text-gradient-grey: linear-gradient(to right,
+      #878184,
+      #3a364b);
 
   /* solid */
 
