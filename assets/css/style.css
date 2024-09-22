@@ -276,7 +276,7 @@ article.active {
   left: 0;
   width: 30px;
   height: 3px;
-  background: var(--text-gradient-yellow);
+  background: var(--text-grey);
   border-radius: 3px;
 }
 
