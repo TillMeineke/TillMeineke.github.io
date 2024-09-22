@@ -38,9 +38,9 @@
   --border-gradient-onyx: linear-gradient(to bottom right,
       #302c3f,
       #1d1a27);
-  --text-gradient-grey: linear-gradient(to right,
-      #878184,
-      #3a364b);
+  --text-gradient-yellow: linear-gradient(to right,
+      #5f3fbf,
+      #1b26a0);
 
   /* solid */
 
@@ -276,7 +276,7 @@ article.active {
   left: 0;
   width: 30px;
   height: 3px;
-  background: var(--text-gradient-grey);
+  background: var(--text-gradient-yellow);
   border-radius: 3px;
 }
 
@@ -958,7 +958,7 @@ main {
 }
 
 .skill-progress-fill {
-  background: var(--text-gradient-grey);
+  background: var(--text-gradient-yellow);
   height: 100%;
   border-radius: inherit;
 }
