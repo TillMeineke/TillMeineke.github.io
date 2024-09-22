@@ -4,17 +4,21 @@ This repository contains a collection of data analytics and machine learning pro
 
 FIXME:
 
+- Navbar
+  - Portfolio glowing when Resume is active
+  - Resume glowing when Portfolio is active
+
 - About
-  - picture to large on mobile
+  - [x] picture to large on mobile
   - write more about me
-  - Vizuallisation
+  - Visualization
     - icon
     - text
   - "Coach" section
     - icon
     - text
 - portfolio
-  - cat-selection not working
+  - cat-selection not working on mobile
   - add more projects
 - resume
   - switch order of education and experience
