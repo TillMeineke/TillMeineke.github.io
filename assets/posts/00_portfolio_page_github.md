@@ -17,9 +17,11 @@ git clone <repository-url>
 Create a new folder called `assets` and inside it create two folders called `css` and `js`.
 
 ## Step 3: Set up repository
+
 Go to repository Settings and scroll down to "Pages” section. Under "Build and deployment" select `Deploy from a branch` under the “Source” and choose `master branch`.
 
 ## Step 4: Copy template files from my repository
+
 Go to my [repository](https://github.com/TillMeineke/TillMeineke.github.io) and copy the respective files to the folders in your repository.
 
 - `index.html`
@@ -29,9 +31,11 @@ Go to my [repository](https://github.com/TillMeineke/TillMeineke.github.io) and 
 Also copy needed images in the `/assets/images` folder or create your own.
 
 ## Step 5: Customize my template
-Edit the `index.html` file to add your name, bio, and links to your projects. You can also customize the CSS and JS files to change the look and feel of your portfolio page. (The template is based on the templates from [here](https://dalum.vercel.app) and [here](https://daveebbelaar.github.io/)
+
+Edit the `index.html` file to add your name, bio, and links to your projects. You can also customize the CSS and JS files to change the look and feel of your portfolio page. (The template is based on the templates from [here](https://dalum.vercel.app) and [here](https://daveebbelaar.github.io/)).
 
 ## Step 6: Push changes to the repository
+
 Commit and push the changes to the repository using the following commands:
 
 ```bash
@@ -42,4 +46,8 @@ git push origin master
 
 ## Step 7: Check your portfolio page
 
-Magic Time 🎉 Your portfolio page should now be live at `https://username.github.io`.
+Magic Time 🎉
+
+Your portfolio page should now be live at `https://username.github.io`.
+
+

@@ -4,8 +4,7 @@ This repository contains a collection of data analytics and machine learning pro
 
 FIXME:
 
-- About
-  - write more about me
 - portfolio
   - add more projects
-- add blog posts
+- blog
+  - add posts
