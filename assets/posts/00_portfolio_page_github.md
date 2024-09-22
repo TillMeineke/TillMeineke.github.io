@@ -49,5 +49,3 @@ git push origin master
 Magic Time 🎉
 
 Your portfolio page should now be live at `https://username.github.io`.
-
-
