@@ -2,6 +2,8 @@
 
 In this tutorial, I will guide you through the process of quickly setting up your data science portfolio using Github Pages. Just a little bit of HTML, CSS and JS is all you need to get started. This is a great way to showcase your projects and share your work with the world.
 
+The orignal idea I found [here](https://www.freedium.cfd/https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
+
 ## Step 1: Create a new repository
 
 Log in to your Github (or create an account if you don't have one at [github.com](https://github.com/join)) and create a new repository. Name it `username.github.io`, where `username` is your Github username. This will be the URL of your portfolio page.
@@ -49,3 +51,9 @@ git push origin master
 Magic Time 🎉
 
 Your portfolio page should now be live at `https://username.github.io`.
+
+Enjoy sharing your work with the world!
+
+Please let me know if you have any questions or need help with setting up your portfolio page. I am happy to help.
+
+I am looking for data science opportunities and would love to connect with you. You can find me on [LinkedIn](https://www.linkedin.com/in/tillmeineke/) and [github](https://github.com/TillMeineke).
