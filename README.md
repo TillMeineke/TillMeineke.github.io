@@ -5,6 +5,6 @@ This repository contains a portfolio page with a collection of data analytics an
 TODO:
 
 - [ ] portfolio
-  - add more projects
+  - add more projects asap
 - [ ] blog
-  - add more posts
+  - add more posts daily
