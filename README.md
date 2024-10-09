@@ -4,6 +4,7 @@ This repository contains a portfolio page with a collection of data analytics an
 
 TODO:
 
+- [ ] resume: CV and Referendariat?
 - [ ] portfolio
   - add more projects asap
 - [ ] blog
